@@ -1,0 +1,15 @@
+#######################################################################################################################################
+<poster>petermesh</poster>
+<fanart>http://rockbanddlc.org/images/RedDwarfWallpaper1024.jpg</fanart>
+#######################################################################################################################################
+<dir>
+<name>Red Dwarf</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Red_Dwarf/red_dwarf_list.xml</link>
+<thumbnail>http://rockbanddlc.org/images/RedDwarfLogo-1.gif</thumbnail>
+</dir>
+
+<dir>
+<name>The IT Crowd</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/The_IT_Crowd/itcrowd_list.xml</link>
+<thumbnail></thumbnail>
+</dir>
