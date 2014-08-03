@@ -5,23 +5,53 @@
 <dir>
 <name>22 Jump Street - TS</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/22_Jump_Street.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://rockbanddlc.org/images/22_jump%20street/fan_22.jpeg</thumbnail>
+</dir>
+
+<dir>
+<name>The Breakfast Club - 720p</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/Breakfast_Club.xml</link>
+<thumbnail>http://rockbanddlc.org/images/breakfast_club/thumb_the-breakfast-club-532f1cc783459.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Ferris_Bueller's Day Off - 720p</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/Ferris_Bueller.xml</link>
+<thumbnail>http://rockbanddlc.org/images/ferris/thumb_ferris_cover.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>A Haunted House 2 - BDRiP</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/A_Haunted_House_2.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://rockbanddlc.org/images/hh2/thumb_hh2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Pretty in Pink - 720p</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/pretty_in_pink.xml</link>
+<thumbnail>http://rockbanddlc.org/images/pretty_in_pink/thumb_pip.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Transformers - Age of Extinction - R6</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/transformers_r6.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://rockbanddlc.org/images/transformers_aoe/thumb_Transformers%20_Age_of_Extinction_43.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Uncle Buck - SD</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/Uncle_Buck.xml</link>
 <thumbnail>http://rockbanddlc.org/images/uncle_buck/fanart_ub.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Wanderers - SD</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/Wanderers.xml</link>
+<thumbnail>http://rockbanddlc.org/images/wanderers/thumb2_Wanderers_s.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Warriors - SD</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/Warriors.xml</link>
+<thumbnail>http://rockbanddlc.org/images/warriors/thumb_the-warriors-fanmade-box-art.jpg</thumbnail>
 </dir>
