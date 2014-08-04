@@ -1,0 +1,24 @@
+<poster>petermesh</poster>
+<fanart>http://rockbanddlc.org/images/jamesmay/fan_James_May%27s_Lego_House_nears_completion.jpg</fanart>
+<thumbnail>http://rockbanddlc.org/images/jamesmay/thumb_JMTStitle.png</thumbnail>
+#########################################################################
+<dir>
+<name>S01 Special 1 - The Great Train Race</name>
+<thumbnail>http://rockbanddlc.org/images/jamesmay/thumb_JMTStitle.png</thumbnail>
+<fanart>http://rockbanddlc.org/images/jamesmay/fan_James_May%27s_Lego_House_nears_completion.jpg</fanart>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/james_may/trainrace.xml</link>
+</dir>
+
+<dir>
+<name>S01 Special 2 - Flight Club</name>
+<thumbnail>http://rockbanddlc.org/images/jamesmay/thumb_JMTStitle.png</thumbnail>
+<fanart>http://rockbanddlc.org/images/jamesmay/fan_James_May%27s_Lego_House_nears_completion.jpg</fanart>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/james_may/flightclub.xml</link>
+</dir>
+
+<dir>
+<name>S01 Special 3 - The Motorcycle Diaries</name>
+<thumbnail>http://rockbanddlc.org/images/jamesmay/thumb_JMTStitle.png</thumbnail>
+<fanart>http://rockbanddlc.org/images/jamesmay/fan_James_May%27s_Lego_House_nears_completion.jpg</fanart>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/james_may/motorcycle.xml</link>
+</dir>

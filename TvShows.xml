@@ -1,21 +1,27 @@
 #######################################################################################################################################
 <poster>petermesh</poster>
-<fanart>http://rockbanddlc.org/images/RedDwarfWallpaper1024.jpg</fanart>
+<fanart></fanart>
 #######################################################################################################################################
 <dir>
-<name>Red Dwarf</name>
-<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Red_Dwarf/red_dwarf_list.xml</link>
-<thumbnail>http://rockbanddlc.org/images/RedDwarfLogo-1.gif</thumbnail>
+<name>An Idiot Abroad</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Idiot_Abroad/ia_list.xml</link>
+<thumbnail>http://rockbanddlc.org/images/idiotabroad/thumb_anidiotabroad_500.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>The IT Crowd</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/The_IT_Crowd/itcrowd_list.xml</link>
+<thumbnail>http://rockbanddlc.org/images/itcrowd/thumb_the-it-crowd-535fbcfa00926.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>James May's Toy Stories</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/james_may/jamesmay_list.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>An Idiot Abroad</name>
-<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Idiot_Abroad/ia_list.xml</link>
-<thumbnail></thumbnail>
+<name>Red Dwarf</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Red_Dwarf/red_dwarf_list.xml</link>
+<thumbnail>http://rockbanddlc.org/images/RedDwarfLogo-1.gif</thumbnail>
 </dir>

@@ -1,0 +1,6 @@
+vh1 classic
+http://gogo.jksw.cz:8024/
+
+Vevo 1 - 720p playlist
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
