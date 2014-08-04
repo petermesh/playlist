@@ -2,12 +2,22 @@
 <poster>petermesh</poster>
 <fanart></fanart>
 #######################################################################################################################################
+<info>
+<message>[COLOR=FF67cc33]Playlist URL : http://xty.me/petermesh[/COLOR]</message>
+<message>[COLOR=FF67cc33]Support and Requests : http://xty.me/petermeshsupport[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
 <name>TV Shows</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/TvShows.xml</link>
 <thumbnail></thumbnail>
 
 <name>Movies</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies.xml</link>
+<thumbnail></thumbnail>
+
+<name>Requests</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/requests.xml</link>
 <thumbnail></thumbnail>
 #######################################################################################################################################
 <info>
