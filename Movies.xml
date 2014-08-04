@@ -3,6 +3,12 @@
 <fanart></fanart>
 #######################################################################################################################################
 <dir>
+<name>Chef 2014 - HDRiP</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/chef.xml</link>
+<thumbnail>http://rockbanddlc.org/images/chef/th_chef.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>22 Jump Street - TS</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/22_Jump_Street.xml</link>
 <thumbnail>http://rockbanddlc.org/images/22_jump%20street/fan_22.jpeg</thumbnail>
