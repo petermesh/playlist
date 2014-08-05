@@ -19,6 +19,10 @@
 <name>Requests</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/requests.xml</link>
 <thumbnail></thumbnail>
+
+<name>Testing Purposes</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/test.xml</link>
+<thumbnail></thumbnail>
 #######################################################################################################################################
 <info>
 <message>[COLOR=FF67cc33]Follow me on Twitter @petermesh to report dead links[/COLOR]</message>
