@@ -3,6 +3,12 @@
 <fanart></fanart>
 #######################################################################################################################################
 <dir>
+<name>Full English Breakfast 2013</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/fullenglish.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name>Scooby Doo - Frankencreepy 2014</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/Movies/scoobyfrank.xml</link>
 <thumbnail></thumbnail>
