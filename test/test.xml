@@ -3,15 +3,65 @@
 <fanart></fanart>
 #######################################################################################################################################
 <item>
-<title>CN</title>
+<title>Cartoon Network</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://80.77.52.6:4022/udp/230.0.3.15:12345</link>
 </item>
 
 <item>
-<title>N</title>
+<title>Nick</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://80.77.52.6:4022/udp/230.0.3.45:12345</link>
+</item>
+
+<item>
+<title>IQ HD Showtime</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>mms://mediafilmcenter.ro:10</link>
+</item>
+
+
+<item>
+<title>[B][COLOR green]NOW THATS WHAT I CALL MUSIC TV[/COLOR][/B]</title>
+<thumbnail>http://www.iheartmusic.co.uk/wp-content/uploads/2011/03/Now-website-logo.jpg</thumbnail>
+<fanart></fanart>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+</item>
+
+<item>
+<title>[B][COLOR green]CAPITAL MUSIC[/COLOR][/B]</title>
+<thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/CapitalTV_zps8933960e.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital</link>
+</item>
+
+<item>
+<title>[B][COLOR green]KISS TV[/COLOR][/B]</title>
+<thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/KissTV_zps37bb151b.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=vcx7</link>
+</item>
+
+<item>
+<title>[B][COLOR green]VEVO MUSIC 1[/COLOR][/B]</title>
+<thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/Vevo_zpsf944b12b.png</thumbnail>
+<fanart></fanart>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+</item>
+
+<item>
+<title>[B][COLOR green]VEVO MUSIC 2[/COLOR][/B]</title>
+<thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/Vevo_zpsf944b12b.png</thumbnail>
+<fanart></fanart>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+</item>
+
+<item>
+<title>[B][COLOR green]VEVO MUSIC 3[/COLOR][/B]</title>
+<thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/Vevo_zpsf944b12b.png</thumbnail>
+<fanart></fanart>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 </item>
