@@ -65,3 +65,360 @@
 <fanart></fanart>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 </item>
+
+#######################################################################################################################################
+<poster>petermesh</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+
+<item>
+<title>#EXTINF:-1,DISCOVERY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/239.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY ONE</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/229.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,ALIBI</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/220.ch</sublink>
+</link>
+</item>
+
+<item>
+<title>#EXTINF:-1,DISCOVERY SCI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/240.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY TWO</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/230.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,GOLD</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/221.ch</sublink>
+</link>
+ </item>
+
+#########
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,BIO-CI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/241.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY NEWS</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/231.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,YESTERDAY</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/222.ch</sublink>
+</link>
+ </item>
+
+#########
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,HISTORY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/242.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY ARTS</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/232.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,COMDEY CENTRAL</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/223.ch</sublink>
+</link>
+ </item>
+
+#########
+
+#########
+
+###
+<item>
+<title>EXTINF:-1,MTV UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/243.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY LIVING</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/233.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY MOVIES ACTION</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/224.ch</sublink>
+</link>
+ </item>
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,SKY ATLANTIC</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/234.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY MOVIES ACTION</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/225.ch</sublink>
+</link>
+ </item>
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,PICK TV</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/235.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY MOVIES PREMIER</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/226.ch</sublink>
+</link>
+ </item>
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,AT THE RACES</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/236.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY MOVIES CRIME</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/227.ch</sublink>
+</link>
+ </item>
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,NATIONAL GEOGRAPHIC UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/237.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY MOVIES FAMILY</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/228.ch</sublink>
+</link>
+ </item>
+
+#########
+
+###
+<item>
+<title>#EXTINF:-1,NATIONAL GEOGRAPHIC WILD UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/238.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY TURK TR</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/266.ch</sublink>
+</link>
+ </item>
+
+
+<item>
+<title>#EXTINF:-1,DISCOVERY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/239.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY ONE</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/229.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>#EXTINF:-1,DISCOVERY SCI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/240.ch</sublink>
+</link>
+</item>
+
+<item>
+<title>#EXTINF:-1,SKY TWO</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/230.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>#EXTINF:-1,BIO-CI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/241.ch</sublink>
+</link>
+</item>
+#########
+<item>
+<title>#EXTINF:-1,SKY NEWS</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/231.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>#EXTINF:-1,HISTORY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/242.ch</sublink>
+</link>
+</item>
+<item>
+<title>#EXTINF:-1,SKY ARTS</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/232.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>EXTINF:-1,MTV UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/243.ch</sublink>
+</link>
+</item>
+
+<item>
+<title>#EXTINF:-1,SKY LIVING</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/233.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,SKY ATLANTIC</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/234.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,PICK TV</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/235.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,AT THE RACES</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/236.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,NATIONAL GEOGRAPHIC UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/237.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,NATIONAL GEOGRAPHIC WILD UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/238.ch</sublink>
+</link>
+ </item>
+
+###
+<item>
+<title>#EXTINF:-1,DISCOVERY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/239.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>#EXTINF:-1,DISCOVERY SCI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/240.ch</sublink>
+</link>
+ </item>
+#
+<item>
+<title>#EXTINF:-1,BIO-CI UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/241.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>#EXTINF:-1,HISTORY CHANNEL UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/242.ch</sublink>
+</link>
+ </item>
+
+<item>
+<title>EXTINF:-1,MTV UK</title>
+<link>
+<sublink>http://iptv-iptv.dyndns.tv/fann1/fann1/243.ch</sublink>
+</link>
+</item>
