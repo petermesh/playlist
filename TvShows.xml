@@ -3,6 +3,12 @@
 <fanart></fanart>
 #######################################################################################################################################
 <dir>
+<name>Thomas and Friends</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_list.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>An Idiot Abroad</name>
 <link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/Idiot_Abroad/ia_list.xml</link>
 <thumbnail>http://rockbanddlc.org/images/idiotabroad/thumb_anidiotabroad_500.jpg</thumbnail>
