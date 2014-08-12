@@ -1,0 +1,90 @@
+
+<dir>
+<name>Thomas and Friends Season 03</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season03.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 04</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season04.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 05</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season05.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 06</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season06.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 07</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season07.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 08</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season08.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 09</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season09.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 10</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season10.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 11</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season11.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 12</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season12.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 13</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season13.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 14</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season14.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 15</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season15.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 16</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season16.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Thomas and Friends Season 17</name>
+<link>https://raw.githubusercontent.com/petermesh/playlist/master/TV/thomas/thomas_season17.xml</link>
+<thumbnail>http://rockbanddlc.org/images/thomas/thumb_thomas.jpg</thumbnail>
+</dir>
