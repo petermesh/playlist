@@ -60,6 +60,117 @@
 </item>
 
 <item>
+<title>HEART Tv</title>
+<thumbnail>http://www.jumpdesign.co.uk/assets/templates/jump/videos/placeholder/heart_2.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
+</item>
+<item>
+<title>VEVO PLAYLIST [COLOR green] HD [/COLOR]</title>
+<thumbnail>http://static.greatescapefestival.com/wp-content/uploads/2014/05/sponsors_VEVO1.png</thumbnail>
+<fanart></fanart>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
+</item>
+
+<item>
+<title>BEST Music TV [COLOR green] 720 HD [/COLOR]</title>
+<thumbnail>http://thumbs.eska.pl/common/9/2/s/923254SHhQ.jpg/ru-0-r-244,244-n-923254SHhQ.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://stream.smcloud.net/live2/best/best_720p</link>
+</item>
+
+<item>
+<title>ESKA ROCK TV [COLOR green] 720 HD [/COLOR]</title>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20121023154708/logopedia/images/7/7c/Eska.rock.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p</link>
+</item>
+
+<item>
+<title>Capital</title>
+<thumbnail>http://www.atvtoday.co.uk/wp-content/uploads/2012/10/capital-one.gif</thumbnail>
+<fanart></fanart>
+<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital</link>
+</item>
+
+<item>
+<title>ClubLand</title>
+<thumbnail>http://www.creativespark.co.uk/wp-content/uploads/Clubland_TV_Identity_06-940x664.jpg</thumbnail>
+<fanart></fanart>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+</item>
+
+<item>
+<title>JIM</title>
+<thumbnail>http://tv-place.net/images/thumbs/jimtv.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim</link>
+</item>
+
+<item>
+<title>Musiq 1 tv</title>
+<thumbnail>http://static.etrend.sk/uploads/tx_media/2012/03/01/musiq1_logo_cervene.jpg</thumbnail>
+<fanart></fanart>
+<link>http://212.79.96.134:8005/</link>
+</item>
+
+<item>
+<title>MTV Rock</title>
+<thumbnail>http://www.blogilvypr.com/wp-content/uploads/MTV_ROCKS_Logotipo-Original1.jpg</thumbnail>
+<fanart></fanart>
+<link>http://91.240.87.34:4000/udp/224.200.202.98:1234</link>
+</item>
+
+<item>
+<title>MTV Dance</title>
+<thumbnail>http://3.bp.blogspot.com/-Q2dRpsKq8m8/UslufxpaRmI/AAAAAAAAAmg/-FQcZIxCEgM/s1600/493px-MTV_DANCE_logo.svg.png</thumbnail>
+<fanart></fanart>
+<link>http://91.240.87.34:4000/udp/224.200.202.47:1234</link>
+</item>
+
+<item>
+<title>MTV Hits</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/512px-MTV_HITS_logo.svg.png</thumbnail>
+<fanart></fanart>
+<link>http://91.240.87.34:4000/udp/224.200.202.107:1234</link>
+</item>
+
+<item>
+<title>Now Thats What I Call Music</title>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2013/10/NOW-MUSIC-300x211.jpg</thumbnail>
+<fanart></fanart>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+</item>
+
+<item>
+<title> Radio 105 TV </title>
+<thumbnail>http://www.105.net/gfx/ico/app-105tv.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://fms.105.net/live/105Test1</link>
+</item>
+
+<item>
+<title>TUBA TV</title>
+<thumbnail>http://www.myphone.webd.pl/wp-content/uploads/2012/05/tuba-tv-icon.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://fms.gazeta.pl:1935/aglive/tuba_tv</link>
+</item>
+
+<item>
+<title>TV538</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_538_Nederland.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://82.201.53.52:80/livestream/tv538</link>
+</item>
+
+<item>
+<title>Party [COLOR green] 720 HD [/COLOR]</title>
+<thumbnail>http://www.freeetv.com/images/reydddd/images2012/eskaparty.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p</link>
+</item>
+
+<item>
 <title>[B][COLOR green]VEVO MUSIC 3[/COLOR][/B]</title>
 <thumbnail>http://i1151.photobucket.com/albums/o625/kizzer31111/Vevo_zpsf944b12b.png</thumbnail>
 <fanart></fanart>
